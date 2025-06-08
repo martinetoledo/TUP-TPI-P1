@@ -38,10 +38,10 @@ pip install -r requirements.txt
 
 ### Ejecutar el proyecto
 
-Correr ambos casos prácticos en secuencia:
+Correr caso práctico n° 1:
 
 ```bash
-python3 main.py
+python3 busqueda_lineal.py
 ```
 
 
