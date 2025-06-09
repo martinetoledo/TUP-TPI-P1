@@ -1,6 +1,6 @@
 # TUP-TPI-P1
 
-**Trabajo Práctico Integrador - Programación 1**
+## Trabajo Práctico Integrador - Programación 1**
 
 * **Título del trabajo:** Búsqueda y ordenamiento
 * **Alumnos:**
@@ -44,9 +44,8 @@ Correr caso práctico n° 1:
 python3 busqueda_lineal.py
 ```
 
+Correr caso práctico n° 1:
 
-
-
-
-
-
+```bash
+python3 binaria.py
+```
