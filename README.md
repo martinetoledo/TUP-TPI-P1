@@ -10,6 +10,7 @@
 * **Materia:** Programación I
 * **Profesor/a:** Julieta Trapé
 * **Fecha de Entrega:** 09/06/2025
+* **Video explicativo:** https://www.youtube.com/watch?v=VbsNx0dgkPc
 
 ---
 
